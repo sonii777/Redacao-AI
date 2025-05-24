@@ -1,1 +1,1 @@
-javascript:(()=>{fetch('https://raw.githubusercontent.com/Sonii777/Arvore-Redacao-AI/main/arvore.js').then(r=>r.text()).then(code=>eval(code));})();
+javascript:(()=>{fetch('https://raw.githubusercontent.com/BURRICE/Arvore-Redacao/main/arvore.js').then(r=>r.text()).then(eval);})();
